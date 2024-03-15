@@ -1,0 +1,10 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <style name="Theme.Calculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Add customizations for transparent system bars here, if needed -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Ensure other customizations are compatible with AppCompat -->
+    </style>
+</resources>
